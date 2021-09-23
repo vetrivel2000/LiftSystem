@@ -1,7 +1,5 @@
 package logical;
-
 import com.Lift;
-
 import java.util.ArrayList;
 import java.util.Comparator;
 
